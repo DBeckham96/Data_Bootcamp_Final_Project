@@ -10,4 +10,6 @@ Submitting the same or substantially similar work in multiple courses, either in
 
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
+Happiness is a subjective concept that people readily assume can be measured. The 6th World Happiness Report was published in 2018, to survey the science of measuring and understanding subjective well-being.
+
 In this project we set out to further analyze the results observed in this published report. Why do certain factors impact happiness over others? Does wealth lead to health and happiness? Are there any patterns worth identifying when it comes to how people in different countries view happiness? What are some ways in which the overall global level of happiness could be improved over time?
